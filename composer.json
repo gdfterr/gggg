@@ -1,0 +1,20 @@
+{
+    "name": "123movies-vh1/basketball-wives-season-8-episode-1-tv-streaming",
+    "description": "Watch Basketball Wives Season 8 Episode 1 Online Free putlocker S08e01 WATCH FULL EPISODES HERE (CLICK LINK BELOW TO WATCHING)",
+	"keywords": ["Basketball Wives Season 8 Episode 1 Online"],
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "WATCH HERE : https://t.co/DHyiCatmN0",
+            "homepage": "https://t.co/DHyiCatmN0",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "movies123\\": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
